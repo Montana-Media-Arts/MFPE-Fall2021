@@ -23,7 +23,7 @@ RigidBody2D is vital to any object because it applies physics properties like gr
 3. In the dropdown, look for **Physics 2D** and click **RigidBody2D**
 4. Once the **RigidyBody2D** component is added, run the program.  What happens?
 5. We don't want it to fall through the ground, so let's change the **Gravity Scale** to zero.
-6. We also don't want to make the ship fly too fast; we will add some **Linear Drag**, which is also like friction.  Change the **Linear Drag** to **10**. 
+6. We also don't want to make the ship fly too fast; we will add some **Friction** to **10**. 
 
 What about making it move around?  That's where we add code. Lucky for us, we get to use a pre-built script.
 
