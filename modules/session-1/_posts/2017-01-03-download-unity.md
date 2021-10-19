@@ -12,8 +12,7 @@ Unity uses centralized software called the Unity Hub, allowing users to install 
 
 1. First go to Unity <a href="http://unity3d.com/unity/" target="_blank">Unity Download</a>
 2. Next, Click on **Get Started**
-3. Click on **Get Started**.
-4. Click the **Individual Tab**.
+3. Click the **Individual Tab**.
 5. Click the **Student Sign up** or **Personal Get Started** button.
 6. If you choose **Individual**, click **Start here** on the next page.
 7. Click **Agree and Download** in the Terms dialog box.
@@ -43,5 +42,5 @@ Wait for the install to complete and then click on Projects.
 
 1. Click **New**.
 2. In the **Create New Project**, click **2D Template**.
-3. In the **Project Name**, enter **InnovateHS Playground** (or whatever you want)
+3. In the **Project Name**, enter **MFPE Playground** (or whatever you want)
 4. Click **Create**.

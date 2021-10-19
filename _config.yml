@@ -40,7 +40,7 @@ prose:
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#8c8e90"
 jumbotron_background_image: "header.svg"
-jumbotron_image: "MART_LOGO_SMALL.png"
+jumbotron_image: LOGOMFPE_Header2021.png"
 
 theme: jekyll-theme-slate
 
