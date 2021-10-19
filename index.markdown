@@ -4,7 +4,7 @@ published: true
 ---
 
 
-This is the website for the online offering of Innovate High School 2020 offered by [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
+This is the website for the online offering of MFPE Fall 2021 Conference offered by [The School of Media Arts, University of Montana](http://www.umt.edu/mediaarts/).
 
 This online module focuses on Unity where we build innovative games and experiences.This module begans with a overview of Unity and its purpose and then we will use the Unity Playground to create an engaging game.
 
