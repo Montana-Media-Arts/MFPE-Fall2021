@@ -39,9 +39,11 @@ If an install hasn't finished, wait for the most recent version to install or yo
 Wait for the install to complete and then click on Projects.
 
 # New Project
+
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a6UDsU8Q2Cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
+
 1. Click **New**.
 2. In the **Create New Project**, click **2D Template**.
 3. In the **Project Name**, enter **MFPE Playground** (or whatever you want)
