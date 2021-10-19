@@ -5,9 +5,9 @@ jotted: false
 ---
 
 # Obstacles
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jOYUXanJTAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_vn0_yvzR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Unity makes it easy to add both obstacles and collision detections!
 
 You know how to add objects to the scene now.  Go ahead and add something new to the scene into which the ship can collide.

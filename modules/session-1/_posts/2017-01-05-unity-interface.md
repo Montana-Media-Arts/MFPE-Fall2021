@@ -4,9 +4,9 @@ module: 1
 ---
 
 # Unity User Interface
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AwJqWyc2Syc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/id1VV-8ptZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Heirarchy
 
 The first window is the hierarchy tab.  This window is where any added components to the scene appear.
