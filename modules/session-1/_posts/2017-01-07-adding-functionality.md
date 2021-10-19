@@ -4,9 +4,9 @@ module: 1
 ---
 
 # Making our Ship Functional
-
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EwcJtdoNZHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+-->
 So, let's make the ship move around!  There are two things we need to make this happen.
 
 To move, the ship requires two things.  

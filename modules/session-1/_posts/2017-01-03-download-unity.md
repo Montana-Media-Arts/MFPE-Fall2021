@@ -21,9 +21,9 @@ Unity uses centralized software called the Unity Hub, allowing users to install 
 
 
 # Install Unity
-
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-pANOxhxrK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+-->
 After you install the UnityHub, it will attempt to install the most recent version.  It will also have you sign up for an account or login.  I recommend creating an accoun so you can access the Assets Store.
 
 To access the Unity Hub directly, close the dialog window and open the Unity Hub shortcut on your Desktop.
@@ -37,9 +37,9 @@ If an install hasn't finished, wait for the most recent version to install or yo
 5. Click **Done**.
 
 Wait for the install to complete and then click on Projects.
-
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a6UDsU8Q2Cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+-->
 1. Click **New**.
 2. In the **Create New Project**, click **2D Template**.
 3. In the **Project Name**, enter **MFPE Playground** (or whatever you want)
